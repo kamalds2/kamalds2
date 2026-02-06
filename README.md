@@ -1,5 +1,5 @@
 👨‍💻 **About Me**  
-Hi, I'm Doddi Kamal Kumar, a backend developer based in Hyderabad with a strong foundation in **Java, Spring Boot, PHP, SQL, and Python**. I specialize in building scalable, secure, and maintainable backend systems for web applications, with hands-on experience in frameworks like **Slim 4, CodeIgniter, and Spring**. Alongside backend expertise, I also work with **Vue.js, React, and modern frontend technologies** to deliver seamless user experiences.  
+Hi, I'm Doddi Kamal Kumar, a backend developer based in Hyderabad with a strong foundation in **Java, Spring Boot, PHP, SQL, and Python**. I specialize in building scalable, secure, and maintainable backend systems for web applications, with hands-on experience in frameworks like **WordPress, Slim 4, CodeIgniter, and Spring**. Alongside backend expertise, I also work with **Vue.js, React, and modern frontend technologies** to deliver seamless user experiences.  
 
 I thrive on solving complex technical challenges, optimizing database performance, and designing RESTful APIs that power real-time dashboards and enterprise-grade applications. My work spans across diverse domains—from **facility management systems and portfolio dashboards to custom CMS platforms and e-commerce solutions**—always with a focus on clean architecture, modular design, and industry best practices.  
 
