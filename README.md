@@ -7,6 +7,7 @@ I thrive on solving complex technical challenges, optimizing database performanc
 Java, Spring Boot, PHP, Python, MySQL, REST APIs, CodeIgniter, Slim 4, Vue.js, React, WordPress, HTML/CSS, JavaScript  
 
 📌 **Projects Links:** 
+
   Wordpress Project: https://webpage389.wordpress.com/
   
   ManagePortFolio Project: https://portfolio-manager-604259700879.asia-south1.run.app/
