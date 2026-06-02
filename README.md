@@ -9,9 +9,6 @@ Java, Spring Boot, PHP, Python, MySQL, REST APIs, CodeIgniter, Slim 4, Vue.js, R
 📌 **Projects Links:** 
 
   Wordpress Project: https://webpage389.wordpress.com/
-  
-  ManagePortFolio Project: https://portfolio-manager-604259700879.asia-south1.run.app/
-  
   BirthDay Project: https://deepamma-756893738564.europe-west1.run.app/
   
 📌 **What I Bring:**  
