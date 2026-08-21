@@ -1,27 +1,148 @@
-👨‍💻 **About Me**  
-Hi, I'm Doddi Kamal Kumar, a backend developer based in Hyderabad with a strong foundation in **Java, Spring Boot, PHP, SQL, and Python**. I specialize in building scalable, secure, and maintainable backend systems for web applications, with hands-on experience in frameworks like **WordPress, Slim 4, CodeIgniter, and Spring**. Alongside backend expertise, I also work with **Vue.js, React, and modern frontend technologies** to deliver seamless user experiences.  
+# 👋 Hi, I'm Doddi Kamal Kumar
 
-I thrive on solving complex technical challenges, optimizing database performance, and designing RESTful APIs that power real-time dashboards and enterprise-grade applications. My work spans across diverse domains—from **facility management systems and portfolio dashboards to custom CMS platforms and e-commerce solutions**—always with a focus on clean architecture, modular design, and industry best practices.  
+### Java Full Stack Developer | Backend Engineer | AI & Automation Enthusiast
 
-🔧 **Tech Stack Highlights:**  
-Java, Spring Boot, PHP, Python, MySQL, REST APIs, CodeIgniter, Slim 4, Vue.js, React, WordPress, HTML/CSS, JavaScript  
+I’m a **Java Full Stack Developer with 1.5 years of experience** building scalable enterprise applications using **Java, Spring Boot, React.js, and MySQL**.
 
-📌 **Projects Links:** 
+My background is focused on **backend engineering, RESTful APIs, microservices, application security, and full-stack development**. Alongside my software engineering experience, I am actively building and exploring **Generative AI, LLM applications, AI Agents, intelligent automation, and AWS Cloud**.
 
-  Wordpress Project: https://webpage389.wordpress.com/
-  BirthDay Project: https://deepamma-756893738564.europe-west1.run.app/
-  
-📌 **What I Bring:**  
-- Scalable backend architecture  
-- Secure API development  
-- Agile collaboration & documentation  
-- Performance tuning & database optimization  
-- Full-stack adaptability with React + Vue.js  
+My long-term learning journey is:
 
-📂 **Featured Projects:**  
-- **Custom CMS Development** – Modular CMS with role-based access, workflow automation, and WordPress integration  
-- **Portfolio Manager Dashboard** – Secure, role-based admin system using Java, Spring Boot, and Thymeleaf  
-- **McLean Facility/Asset Management System** – PHP Slim 4 + Vue.js solution for asset tracking, scheduling, and analytics  
-- **Morse Code Detection via Eye Blinks** – Python + OpenCV project showcasing AI-driven accessibility  
+**Java & Backend Engineering → Generative AI & AI Agents → Cloud Computing → Quantum Computing & Quantum AI**
 
-=
+---
+
+## 💼 Professional Experience
+
+### Junior Software Engineer | Siri IT Innovations
+
+**Jan 2025 – Jun 2026 | Hyderabad, India**
+
+Worked on enterprise software solutions and contributed to the **McLean Integrated Facility Management System**.
+
+* Built and contributed to scalable applications using **Java, Spring Boot, React.js, and MySQL**.
+* Designed and developed **RESTful APIs** using **Spring Data JPA and Hibernate**.
+* Worked with enterprise modules including **asset tracking** and **PPM scheduling**.
+* Integrated frontend components with operational dashboards and improved data synchronization performance.
+* Implemented **Role-Based Access Control (RBAC)** using **Spring Security and JWT Authentication**.
+* Gained hands-on experience with **backend development, database operations, security, APIs, and microservices-based architecture**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Job Application Agent
+
+An AI-powered automation system designed to streamline the job search and application process.
+
+**Key capabilities:**
+
+* Searches jobs from multiple job portals and company career pages.
+* Matches resumes with job descriptions.
+* Uses **LLM workflows** for intelligent job analysis.
+* Supports resume customization based on job requirements.
+* Automates parts of the job application workflow.
+
+**Focus:** `Generative AI` • `LLMs` • `AI Agents` • `Automation` • `Backend Development`
+
+---
+
+### 🎙️ 24/7 AI Voice Assistant
+
+An AI-powered conversational voice assistant integrating speech-to-text, LLM reasoning, voice synthesis, and automated notifications.
+
+**Key capabilities:**
+
+* Processes voice input through speech-to-text workflows.
+* Uses LLM-based reasoning to generate contextual responses.
+* Converts AI responses into voice output using speech synthesis.
+* Integrates notification workflows for seamless user interaction.
+
+**Focus:** `Conversational AI` • `LLM Applications` • `AI Agents` • `Speech-to-Text` • `Voice AI` • `Automation` • `Backend Integration`
+
+---
+
+### 🏢 McLean Facility & Asset Management System
+
+A specialized enterprise application focused on asset tracking and maintenance operations.
+
+**Key contributions:**
+
+* Backend development using **Java and Spring Boot**.
+* Database integration using **MySQL**.
+* Development of scalable **REST APIs**.
+* Real-time dashboard analytics.
+* Asset tracking and maintenance scheduling.
+* Dynamic QR code generation functionality.
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend & Core Development
+
+`Java` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `Spring Security` • `REST APIs` • `Microservices` • `JWT` • `MVC`
+
+## Frontend
+
+`React.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Vue.js`
+
+## Databases
+
+`MySQL` • `SQL` • `SQL Optimization`
+
+## AI & Intelligent Automation
+
+`Generative AI` • `LLM Applications` • `AI Agents` • `Agentic AI` • `Prompt Engineering` • `Claude API` • `Intelligent Automation`
+
+## Cloud & Dev Tools
+
+`AWS` • `Amazon EC2` • `Amazon VPC` • `IAM` • `Security Groups` • `Route Tables` • `NAT Gateway` • `Git` • `GitHub` • `Postman`
+
+---
+
+# 📚 Currently Learning & Building
+
+* 🤖 Advanced **AI Agent architectures and Agentic Workflows**
+* 🧠 **LLM Application Development**
+* ☁️ **AWS Cloud Architecture and Cloud Networking**
+* 🔄 AI-powered **automation systems**
+* ⚛️ **Quantum Computing fundamentals**
+* 🔮 Exploring the future of **Quantum AI and Quantum Machine Learning**
+
+> **My goal is to combine strong software engineering fundamentals with AI, cloud technologies, and eventually Quantum Computing to build next-generation intelligent systems.**
+
+---
+
+# 🎯 Areas I'm Interested In
+
+I’m particularly interested in opportunities involving:
+
+* Java Backend Development
+* Java Full Stack Development
+* Spring Boot & Microservices
+* Backend Engineering
+* REST API Development
+* AI-powered Applications
+* Generative AI & LLM Applications
+* AI Agents & Intelligent Automation
+* Cloud-Native Applications
+* AWS Cloud
+
+---
+
+# 📫 Let's Connect
+
+I’m open to connecting with **recruiters, software engineers, engineering teams, and professionals working on impactful technology and AI products**.
+
+📧 **Email:** [kamalkumar.doddi@gmail.com](mailto:kamalkumar.doddi@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/kamal-doddi-6422b7279](https://linkedin.com/in/kamal-doddi-6422b7279)
+
+💻 **GitHub:** [github.com/kamalds2](https://github.com/kamalds2)
+
+---
+
+### 💡 Engineering scalable solutions with Code, AI & Cloud.
+
+⭐ *Feel free to explore my repositories and connect with me!*
