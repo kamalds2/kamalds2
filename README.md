@@ -35,28 +35,24 @@ Java + Spring Boot  →  Generative AI + Agents  →  AWS Cloud  →  Quantum (o
 ### 🛠️ Stack
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+ 
 </div>
-
 <br/>
-
 ### 🎯 Focus Areas
-
+ 
 <div align="center">
-
-![Backend](https://img.shields.io/badge/Backend_Engineering-2E9EF7?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-D97757?style=flat-square)
-![LLM Apps](https://img.shields.io/badge/LLM_Applications-D97757?style=flat-square)
-![Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-6f42c1?style=flat-square)
-
+![Backend](https://img.shields.io/badge/Backend_Engineering-2E9EF7?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-D97757?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-6f42c1?style=for-the-badge)
+ 
 </div>
 
 <br/>
