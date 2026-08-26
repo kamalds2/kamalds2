@@ -47,11 +47,16 @@ Java + Spring Boot  →  Generative AI + Agents  →  AWS Cloud  →  Quantum (o
 
 <br/>
 
-### 📈 GitHub
+### 🎯 Focus Areas
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=kamalds2&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalds2&hide_border=true&theme=tokyonight" />
+
+![Backend](https://img.shields.io/badge/Backend_Engineering-2E9EF7?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-D97757?style=flat-square)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-D97757?style=flat-square)
+![Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square)
+![Quantum](https://img.shields.io/badge/Quantum_Computing-6f42c1?style=flat-square)
+
 </div>
 
 <br/>
